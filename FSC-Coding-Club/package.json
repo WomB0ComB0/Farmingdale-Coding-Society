@@ -20,7 +20,7 @@
     "vite": "^4.1.4"
   },
   "description": "Farmingdale's coding club website",
-  "main": "index.js",
+  "main": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WomB0ComB0/Farmingdale-Coding-Society.git"
